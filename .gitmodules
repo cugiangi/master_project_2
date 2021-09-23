@@ -1,0 +1,3 @@
+[submodule "shared/child"]
+	path = shared/child
+	url = https://github.com/cugiangi/child-project.git
